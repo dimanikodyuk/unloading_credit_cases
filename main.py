@@ -67,6 +67,8 @@ for i in res:
         source_directory = 'Z:\ClientsDocuments\F4240\\4AF38'
     elif i[5] == 14:
         source_directory = 'Z:\ClientsDocuments\F4240\\59998'
+    elif i[5] == 15:
+        source_directory = 'Z:\ClientsDocuments\F4240\\41EB0'
     else:
         source_directory = 'Z:\ClientsDocuments'
 
